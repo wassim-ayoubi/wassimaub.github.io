@@ -153,8 +153,8 @@ Worked with multiple clients on freelance web development projects, building cus
 
 # 📫 Contact
 
-📧 Email: your@email.com  
-🌍 Location: Your City, Country
+📧 Email: wassimayoubi825@email.com  
+🌍 Location: Dearborn heights, MI ,United State
 
 ---
 
