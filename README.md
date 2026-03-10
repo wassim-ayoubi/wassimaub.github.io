@@ -29,7 +29,7 @@ I enjoy solving complex problems, optimizing performance, and creating reliable 
 - MongoDB
 - PostgreSQL
 - MySQL
-- Redis
+- Sql server
 
 ## DevOps & Tools
 - Docker
