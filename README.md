@@ -158,4 +158,3 @@ Worked with multiple clients on freelance web development projects, building cus
 
 ---
 
-⭐️ Feel free to explore my repositories and projects!
